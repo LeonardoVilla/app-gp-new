@@ -1,0 +1,8 @@
+{
+  "name": "appGP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "2521566a"
+}
